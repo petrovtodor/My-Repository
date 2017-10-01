@@ -4,9 +4,8 @@ asdsada
 Update with Tortoise...
 Updating with Bash....
 
-<<<<<<< HEAD
 YIYIYIYIYIYIYIYOYOYOYOYOYOYOY
-=======
+
 
 
 
@@ -15,4 +14,4 @@ YIYIYIYIYIYIYIYOYOYOYOYOYOYOY
 
 TEST
 TEST TEST
->>>>>>> Test
+
